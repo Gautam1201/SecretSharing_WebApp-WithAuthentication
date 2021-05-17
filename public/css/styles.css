@@ -8,9 +8,16 @@ body {
     text-align: center;
 }
 
-.secret-text {
+.secret-text-even {
   text-align: center;
   font-size: 2rem;
   color: #fff;
   background-color: #000;
+}
+
+.secret-text-odd{
+  text-align: center;
+  font-size: 2rem;
+  color: #000;
+  background-color: #fff;
 }
